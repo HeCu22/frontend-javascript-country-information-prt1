@@ -1,0 +1,30 @@
+/* ---------------CSS reset ------------------------*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* --------------------Typography--------------------*/
+
+body {
+    font-family: Poppins, sans-serif;
+}
+
+/* -------------------Layout ----------------------*/
+
+h1 {
+    text-align: center;
+}
+h2 {
+    color: blue;
+}
+
+li img {
+    width: 10%;
+}
+
+.worldmap img {
+    width: 100%;
+}
+/*# sourceMappingURL=index.4d663569.css.map */
